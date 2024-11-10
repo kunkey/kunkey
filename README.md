@@ -65,7 +65,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://kunkey.com" target="blank">
+  <a href="https://kunkey.dev" target="blank">
     <img width="90" height="90" src="images/logo-kunkey-transparent-bg-192x192.png" alt="kunkey-blog" />
   </a>
   <a href="https://facebook.com/kunkey.git" target="blank">
