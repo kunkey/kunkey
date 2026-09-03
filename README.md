@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/kunkey" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=kunkey&theme=react&no-frame=true&no-bg=true&margin-w=15" alt="kunkey trophies" />
+    <img src="https://github-profile-trophies.vercel.app/?username=kunkey&theme=react&no-frame=true&no-bg=true&margin-w=15" alt="kunkey trophies" />
   </a>
 </div>
 
@@ -93,7 +93,7 @@
 
   ### 🌐 Languages & Frontend
   <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" /></a>
@@ -153,7 +153,7 @@
 
 <div align="center">
   <a href="https://github.com/kunkey" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunkey&theme=react&hide_border=true&area=true" width="100%" alt="kunkey activity graph" />
+    <img src="https://github-activity-graph.vercel.app/graph?username=kunkey&theme=react&hide_border=true&area=true" width="100%" alt="kunkey activity graph" />
   </a>
 </div>
 
@@ -172,12 +172,12 @@
     <tr>
       <td align="center" valign="top" width="50%">
         <a href="https://github.com/kunkey" target="_blank">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunkey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+          <img width="100%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=kunkey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
         </a>
       </td>
       <td align="center" valign="top" width="50%">
         <a href="https://github.com/kunkey" target="_blank">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kunkey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+          <img width="100%" src="https://githubreadme-stats.vercel.app/api?username=kunkey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
         </a>
       </td>
     </tr>
